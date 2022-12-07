@@ -42,4 +42,4 @@ Reduce will count each value(number 1) for each key.
 
 
 
-# SDA - Hadoop - CodingDojo
+# SDA - Hadoop - CodingDojo - MapReduce
