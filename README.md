@@ -4,7 +4,7 @@
 
 
 ## Review
-We used the Airbnb dataset to build regression models py pyspark MLLib
+
 
 ### Dataset:
 > * The Hotel Reviews dataset contains two columns and 20491 row.
